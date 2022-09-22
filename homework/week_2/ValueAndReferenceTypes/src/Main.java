@@ -17,7 +17,7 @@ public class Main {
         numbers1[0]=10;
 
         System.out.println(numbers2[0]);
- 
+
         //System.out.println(number2);     --> output  : 10
         //System.out.println(numbers2[0]); --> output  : 10
     }
