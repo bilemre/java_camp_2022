@@ -8,5 +8,11 @@ public class Main {
 //
         CustomerManager customerManager = new CustomerManager(new DatabaseLogger());
         customerManager.add();
+
     }
 }
+
+/*                                              OUTPUT
+                                    Customer Added
+                                    Logged to Database : Log Message
+ */
